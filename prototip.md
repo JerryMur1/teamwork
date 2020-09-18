@@ -1,2 +1,2 @@
-reset link - сбросить ссылку
+link-reset  - сбросить ссылку
 link effect - эффект ссылки

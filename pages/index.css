@@ -1,4 +1,5 @@
   @import url(../vendor/normalize.css); /* Подключение VENDOR RESET */
+  @import url(../blocks/reset/reset.css); /* Подключение RESET-cамописный */
 
   /* Наяало: header */
   @import url(../blocks/header/header.css);
@@ -10,6 +11,5 @@
 
 /* Наяало: footer */
   @import url(../blocks/footer/footer.css);
-
-
+  @import url(../blocks/footer/__copyright/footer__copyright.css); /* Элемент copyright  */
 /* Конец: footer */
