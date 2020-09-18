@@ -1,1 +1,15 @@
- @import url(../vendor/normalize.css); /* Подключение VENDOR RESET */
+  @import url(../vendor/normalize.css); /* Подключение VENDOR RESET */
+
+  /* Наяало: header */
+  @import url(../blocks/header/header.css);
+
+
+/* Конец: header */
+
+
+
+/* Наяало: footer */
+  @import url(../blocks/footer/footer.css);
+
+
+/* Конец: footer */
