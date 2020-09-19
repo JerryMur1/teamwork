@@ -1,13 +1,24 @@
   @import url(../vendor/normalize.css); /* Подключение VENDOR RESET */
   @import url(../blocks/reset/reset.css); /* Подключение RESET-cамописный */
 
+  @import url(../blocks/title/title.css);  /* Блок: title */
+  @import url(../blocks/title/subtitle.css);  /* Блок: subtitle */
+
   /* Наяало: header */
   @import url(../blocks/header/header.css);
-
-
+    /* Наяало: блок nav-bar */
+  @import url(../blocks/nav-bar/nav-bar.css);
+  @import url(../blocks/nav-bar/__list/nav-bar__list.css); /* Элемент list */
+  @import url(../blocks/nav-bar/__line/nav-bar__line.css); /* Элемент line */
+  @import url(../blocks/nav-bar/__link/nav-bar__link.css); /* Элемент link */
+    /* Конец: блок nav-bar */
 /* Конец: header */
 
-
+/* Наяало: секция intro */
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__text/intro__text.css); /* Элемент text */
+@import url(../blocks/intro/__img/intro__img.css); /* Элемент img */
+/* Конец: секция intro */
 
 /* Наяало: footer */
   @import url(../blocks/footer/footer.css);
