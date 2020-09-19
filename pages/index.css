@@ -2,7 +2,7 @@
   @import url(../blocks/reset/reset.css); /* Подключение RESET-cамописный */
 
   @import url(../blocks/title/title.css);  /* Блок: title */
-  @import url(../blocks/title/subtitle.css);  /* Блок: subtitle */
+  @import url(../blocks/subtitle/subtitle.css);  /* Блок: subtitle */
 
   /* Наяало: header */
   @import url(../blocks/header/header.css);
@@ -19,6 +19,15 @@
 @import url(../blocks/intro/__text/intro__text.css); /* Элемент text */
 @import url(../blocks/intro/__img/intro__img.css); /* Элемент img */
 /* Конец: секция intro */
+
+/* Наяало: секция people */
+@import url(../blocks/people/people.css);
+
+@import url(../blocks/table/table.css); /* Блок table */
+@import url(../blocks/table/__list/tabel__list.css); /* Элемент list */
+@import url(../blocks/table/__title/table__title.css); /* Элемент title */
+@import url(../blocks/table/__subtitle/table__subtitle.css); /* Элемент subtitle */
+/* Конец: секция people */
 
 /* Наяало: footer */
   @import url(../blocks/footer/footer.css);

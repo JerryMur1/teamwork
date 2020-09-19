@@ -1,0 +1,9 @@
+.tabel__list {
+  max-width: 280px;
+  margin-right: 80px;
+  margin-top: 145px;
+}
+
+.tabel__list:last-child {
+  margin-right: 0;
+}
