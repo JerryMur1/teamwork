@@ -5,12 +5,9 @@
     font-size: 15px;
     line-height: 1.05;
     padding-left: 40px;
-    display: flex;
+    
     
 }
 .header__link:nth-child(1){
     padding-left: 0;
 }
-/* .header__link:nth-child(4){
-    
-} */
