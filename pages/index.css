@@ -20,6 +20,17 @@
 @import url(../blocks/intro/__img/intro__img.css); /* Элемент img */
 /* Конец: секция intro */
 
+/* Наяало: секция info */
+@import url(../blocks/info/info.css);
+
+@import url(../blocks/info-card/info-card.css); /* Блок info-card */
+@import url(../blocks/info-card/_flex_row-reverse/info-card_flex_row-reverse.css); /* Модификатор */
+@import url(../blocks/info-card/__img/info-card__img.css); /* Блок img */
+@import url(../blocks/info-card/__text/info-card__text.css); /* Элемент text */
+@import url(../blocks/info-card/__title/info-card__title.css); /* Элемент title */
+@import url(../blocks/info-card/__paragraph/info-card__paragraph.css); /* Элемент paragraph */
+/* Конец: секция info */
+
 /* Наяало: секция people */
 @import url(../blocks/people/people.css);
 
