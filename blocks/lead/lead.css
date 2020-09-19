@@ -1,0 +1,7 @@
+.lead {
+    max-width: 1184px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
