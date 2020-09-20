@@ -4,3 +4,10 @@
   font-size: 15px;
   line-height: 1.05;
 }
+
+
+@media screen and (max-width: 632px) {
+  .header__link {
+    display: none;
+  }
+}
