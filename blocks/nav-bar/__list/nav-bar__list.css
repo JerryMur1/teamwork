@@ -5,8 +5,9 @@
 
 @media screen and (max-width: 632px) {
   .nav-bar__list {
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: center;
+    margin: 0 auto;
   }
 }

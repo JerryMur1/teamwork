@@ -3,6 +3,18 @@
   margin-bottom: 225px;
 }
 
+@media screen and (max-width: 1024px) {
+  .info-card__title {
+    margin-bottom: 140px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .info-card__title {
+    margin-bottom: 80px;
+  }
+}
+
 @media screen and (max-width: 628px) {
   .info-card__title {
     margin-bottom: 20px;

@@ -5,9 +5,21 @@
   margin-right: 105px;
 }
 
+@media screen and (max-width: 1280px) {
+  .intro__img  {
+    margin-right: 85px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .intro__img  {
+    margin-right: 50px;
+  }
+}
+
 @media screen and (max-width: 628px) {
   .intro__img {
-    max-width: 90%;
+    max-width: 100%;
     margin: 0 auto;
   }
 }
