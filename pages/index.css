@@ -3,6 +3,7 @@
   @import url(../fonts/fonts.css); /* Подключение шрифта */
 
   @import url(../blocks/page/page.css); /*  */
+  @import url(../blocks/link-hover/link-hover.css); /* Анпмация ссылок принаведение */
 
   @import url(../blocks/title/title.css);  /* Блок: title */
   @import url(../blocks/subtitle/subtitle.css);  /* Блок: subtitle */
