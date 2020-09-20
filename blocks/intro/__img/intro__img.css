@@ -1,6 +1,13 @@
 .intro__img {
-  max-width: 418px;
+  max-width: 35%;
   max-height: 418px;
   object-fit: contain;
   margin-right: 105px;
+}
+
+@media screen and (max-width: 628px) {
+  .intro__img {
+    max-width: 90%;
+    margin: 0 auto;
+  }
 }
