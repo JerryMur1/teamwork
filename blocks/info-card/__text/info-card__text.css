@@ -1,4 +1,12 @@
 .info-card__text {
-  width: 50%;
+  max-width: 50%;
   margin: 85px;
 }
+
+@media screen and (max-width: 628px) {
+  .info-card__text {
+    max-width: 100%;
+    margin: 20px 15px;
+  }
+}
+

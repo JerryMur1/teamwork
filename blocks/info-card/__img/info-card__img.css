@@ -2,3 +2,9 @@
   max-width: 50%;
   object-fit: cover;
 }
+
+@media screen and (max-width: 628px) {
+  .info-card__img {
+    max-width: 100%;
+  }
+}

@@ -2,6 +2,13 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  max-height: 626px;
   margin: 0;
+}
+
+@media screen and (max-width: 628px) {
+  .info-card {
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0 auto;
+  }
 }

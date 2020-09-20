@@ -1,8 +1,15 @@
 .info-card__paragraph {
   max-width: 100%;
-  margin: 0 0 30px;
+  margin: 0;
+  margin-bottom: 30px;
 }
 
 .info-card__paragraph:last-child {
   margin-bottom: 0;
+}
+
+@media screen and (max-width: 628px) {
+  .info-card__title {
+    margin-bottom: 20px;
+  }
 }

@@ -2,3 +2,9 @@
   max-width: 100%;
   margin-bottom: 225px;
 }
+
+@media screen and (max-width: 628px) {
+  .info-card__title {
+    margin-bottom: 20px;
+  }
+}
